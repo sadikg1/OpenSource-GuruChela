@@ -1,6 +1,5 @@
 # Guruchela
 
-![Guruchela Banner](assets/guruchela-banner.png)
 
 Guruchela is an open-source web platform designed to connect learners with experienced mentors across various tech stacks, such as React for the frontend, ASP.NET Core for the backend, and SQL for database management. Our mission is to empower learners by providing accessible, quality mentorship that accelerates skill development and career growth.
 
